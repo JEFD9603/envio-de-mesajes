@@ -1,0 +1,6 @@
+C:\Users\Ezequiel Difo\Desktop\trabajo final C#\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\Ezequiel Difo\Desktop\trabajo final C#\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\Ezequiel Difo\Desktop\trabajo final C#\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+C:\Users\Ezequiel Difo\Desktop\trabajo final C#\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel Difo\Desktop\trabajo final C#\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\Ezequiel Difo\Desktop\trabajo final C#\MiLibreria\obj\Debug\MiLibreria.pdb
